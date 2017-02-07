@@ -1,0 +1,319 @@
+<root>
+
+    <menu_verb>
+        <term>
+            <simple_past>
+                <!-- Verb like 'manger' -> not forget to add 'e' between
+                    radical and terminaison -->
+                <name>passé simple</name>
+                <term1>ai,as,a,âmes,âtes,èrent</term1>
+                <term2>is,is,it,îmes,îtes,irent</term2>
+                <term3>us,us,ut,ûmes,ûtes,urent</term3>
+                <term4>ins,ins,int,înmes,întes,înrent</term4>
+
+            </simple_past>
+
+            <present>
+                <name>présent</name>
+                <term1>e,es,e,ons,ez,ent</term1>
+                <term2>is,is,it,issons,issez,issent</term2>
+                <term3>s,s,t,ons,ez,ent</term3>
+                <term4>s,s,d,ons,ez,ent</term4>
+                <term5>x,x,t,ons,ez,ent</term5>
+                <term6>s,s,t,ons,aites,ont</term6>
+                <term7>s,s,t,ommes,êtes,ont</term7>
+                <term8>i,s,,ont,ez,ont</term8>
+            </present>
+
+            <imparfait>
+                <name>imparfait</name>
+                <term1>ais,ais,ait,ions,iez,aient</term1>
+                <term2>ssais,ssais,ssait,ssions,ssiez,ssaient</term2>
+            </imparfait>
+
+            <composed_tense>
+                <name>passé composé</name>
+            </composed_tense>
+
+            <futur>
+                <name>futur</name>
+                <term1>rai,ras,ra,rons,rez,ront</term1>
+                <term2>irai,iras,ira,irons,irez,iront</term2>
+            </futur>
+
+            <sub_present>
+                <name>subjonctif présent</name>
+                <term1>e,es,e,ions,iez,ent</term1>
+                <term2>isse,isses,isse,issions,issiez,issent</term2>
+                <term3>ois,ois,oit,oyons,oyez,oient</term3>
+                <term4>e,es,e,ons,ez,ent</term4>
+            </sub_present>
+
+            <sub_imparfait>
+                <name>subjonctif imparfait</name>
+                <term1>asse,asses,ât,assions,assiez,assent</term1>
+                <term2>isse,isses,ît,issions,issiez,issent</term2>
+                <term3>usse,usses,ût,ussions,ussiez,ussent</term3>
+            </sub_imparfait>
+
+
+            <pp>
+                <term1>é</term1>
+                <term2>is</term2>
+                <term3>t</term3>
+                <term4>u</term4>
+
+            </pp>
+        </term>
+
+        <present>present</present>
+        <simple_past>passé simple</simple_past>
+        <futur>futur</futur>
+        <composed_tense>passé composé</composed_tense>
+        <btn>Verbes</btn>
+        <present_term>
+            <size>4</size>
+            <head>Present Termination :</head>
+            <str1 type='arg'>e, es, e</str1>
+            <str2 type='arg'>s, s, t</str2>
+            <str3 type='arg'>s, s, d</str3>
+            <str4 type='arg'>x, x, t</str4>
+            <plurial>ons, ez, ont</plurial>
+        </present_term>
+        <transitivity>
+            <size>4</size>
+            <head>Transitivity? :</head>
+            <str1 type='arg'>yes</str1>
+            <str2 type='arg'>yes [rarely used]</str2>
+            <str3 type='arg'>yes [often used]</str3>
+            <str4 type='arg'>no</str4>
+        </transitivity>
+        <pastsimple_term>
+            <size>4</size>
+            <head>Simple Past Termination :</head>
+            <str1 index="0">ai, a, èrent</str1>
+            <str2 index="1">is, it, irent</str2>
+            <str3 index="2">us, ut, urent</str3>
+            <str4 index="3">ins, int, înrent</str4>
+        </pastsimple_term>
+        <prepositional>
+            <size>4</size>
+            <head>Prepositional? :</head>
+            <str1 type='arg'>yes [common]</str1>
+            <str2 type='arg'>yes [rare]</str2>
+            <str3 type='arg'>yes [often]</str3>
+            <str4 type='arg'>no</str4>
+        </prepositional>
+        <verbgroup>
+            <size>4</size>
+            <head>Verbal Group :</head>
+            <str1>1st group [-er]</str1>
+            <str2>2nd group [-ir->iss]</str2>
+            <str3>3rd group [-ir,-re,oir,-r]</str3>
+            <str4>Irregular [faire, avoir, etc]</str4>
+        </verbgroup>
+        <impersonal_norm>
+            <size>4</size>
+            <head>Impersonal normal form? :</head>
+            <str1>no</str1>
+            <str2>yes</str2>
+            <str3>only</str3>
+            <str4>only</str4>
+        </impersonal_norm>
+        <impersonal_passif>
+            <size>2</size>
+            <head>Impersonal passive form? :</head>
+            <str1>no [impossible]</str1>
+            <str2>yes [possible]</str2>
+        </impersonal_passif>
+        <prep_patterns>
+            <size>8</size>
+            <head>Possible construction (1 or +):</head>
+            <str1>verb+infinitive</str1>
+            <str2>verb+prep+infinitive</str2>
+            <str3>verb+COD(person/object)+COI(person)</str3>
+            <str4>verb+COI(person)+de+infinitive</str4>
+            <str5>verb+COD(person)+à+infinitive</str5>
+            <str6>verb+COD(person)+de+infinitive</str6>
+            <str7>verb+COD(person)+de+noum</str7>
+            <str8>not used</str8>
+        </prep_patterns>
+    </menu_verb>
+    <menu_subst>
+        <btn>Substantifs</btn>
+        <categories1>
+            <size>-1</size>
+            <head>Categorie [1] :</head>
+        </categories1>
+        <categories2>
+            <size>-1</size>
+            <head>Categorie [2] :</head>
+        </categories2>
+        <categories3>
+            <size>-1</size>
+            <head>Categorie [3] :</head>
+        </categories3>
+        <categories4>
+            <size>-1</size>
+            <head>Categorie [4] :</head>
+        </categories4>
+        <genre>
+            <size>4</size>
+            <head>genre</head>
+            <str1>masc</str1>
+            <str2>fem</str2>
+            <str3>masc+fem</str3>
+            <str4>pluriel</str4>
+        </genre>
+
+    </menu_subst>
+
+    <global>
+        <buttons>
+            <subst>Substantif</subst>
+            <verb>Verbe</verb>
+            <others>Autres</others>
+            <ignore>Ignorer</ignore>
+            <assign>Assigner</assign>
+            <open_db>Ouvrir BDD</open_db>
+            <write_db>Ecrire BDD</write_db>
+            <launch>Lancer</launch>
+            <quit>Quitter</quit>
+            <new_lesson>Nouvelle leçon</new_lesson>
+            <quit>Quitter</quit>
+            <flags>Configurer Drapeaux</flags>
+            <category>Catégorie</category>
+            <previous>Précédent</previous>
+            <next>Suivant</next>
+            <add>Ajouter</add>
+            <confirm>Confirmer</confirm>
+            <delete>Effacer</delete>
+            <create_voc_list>Créer un liste de vocabulaire</create_voc_list>
+        </buttons>
+        <labels>
+            <search>Chercher/尋找</search>
+            <add>Ajouter/加:</add>
+            <translation>翻譯:</translation>
+            <genre>Genre /類別:</genre>
+            <subst>Substantif/名詞</subst>
+            <verb>Verbe/動詞</verb>
+            <pron>Pronom/代名詞</pron>
+            <adj>Adjectif/形容詞</adj>
+            <adv>Adverbe/副詞</adv>
+            <prep>Préposition</prep>
+            <exp>Expression</exp>
+            <other>Autre/其他</other>
+            <hint>Indice:</hint>
+            <info>資料:</info>
+            <empty>[Vide/空]</empty>
+            <speed>Rapidité/速度:</speed>
+            <level>Niveau/程度</level>
+        </labels>
+
+        <categories>
+            <no index='0'>aucune/無</no>
+            <person index='1'>personne/人</person>
+            <food index='2'>nourriture/食物</food>
+            <nature index='3'>nature</nature>
+            <plant index='4'>flore</plant>
+            <activity index='5'>activité</activity>
+            <family index='6'>famille/家庭</family>
+            <animals index='7'>animaux/動物</animals>
+            <time index='8'>temporalité/時間</time>
+            <economy index='9'>économie/經濟</economy>
+            <weather index='10'>météo</weather>
+            <art index='11'>art/藝術</art>
+            <sport index='12'>sport/運動</sport>
+            <body_part index='13'>corps/身體</body_part>
+            <concept index='14'>concept/概念</concept>
+            <action index='15'>endroit/地方</action>
+            <feeling index="16">sentiment/感覺</feeling>
+            <bad index="17">mal</bad>
+            <good index="18">bien</good>
+        </categories>
+
+        <text>
+            <new_lesson>Nouvelle Leçon</new_lesson>
+            <new_lesson_zh>新的課程</new_lesson_zh>
+        </text>
+
+        <var>
+            <subtype_list>
+                <adj code='a'>Adjectif</adj>
+                <pro code='p'>Pronom</pro>
+                <prep code="q">Préposition</prep>
+                <expr code="e">Expression</expr>
+                <prov code="r">Proverbe</prov>
+                <adv code="d">Adverbe</adv>
+                <det code="z">Déterminant</det>
+                <loc_prep code="y">Locution prépositionnelle</loc_prep>
+                <loc_adv code="w">Locution adverbiale</loc_adv>
+                <conjunc code="h">Conjonction</conjunc>
+            </subtype_list>
+
+        </var>
+
+        <headers>
+            <word>法文字</word>
+            <trans>中文翻譯</trans>
+            <category>類別</category>
+            <genre>性別</genre>
+            <id>號碼</id>
+            <type>功能</type>
+            <conjug>變化</conjug>
+        </headers>
+    </global>
+
+
+    <lesson>
+        <title>Editeur de cours</title>
+        <menu>
+            <file>
+                <tag>Fichier</tag>
+                <new>Nouveau</new>
+                <open>Ouvrir</open>
+                <save>Sauvegarder</save>
+                <saveas>Sauvegarder en tant que ....</saveas>
+                <quit>Quitter</quit>
+            </file>
+        </menu>
+        <buttons>
+            <add>Ajouter</add>
+            <add_qcm>加多選題</add_qcm>
+            <add_order>加排序題</add_order>
+            <delete>Effacer</delete>
+            <remove>Retirer</remove>
+            <assign>Assigner</assign>
+            <confirm>Confirmer</confirm>
+            <cancel>Annuler</cancel>
+            <show>Monter</show>
+            <edit>Editer</edit>
+        </buttons>
+        <labels>
+            <vocabulary_title>Vocabulaire</vocabulary_title>
+            <content_fr>Vocabulaire</content_fr>
+            <content_zh>Traduction</content_zh>
+            <activity>Activités</activity>
+            <title>Titre</title>
+            <lesson_title>Titre de la leçon</lesson_title>
+            <lesson_title_zh>Traduction du titre</lesson_title_zh>
+            <theme>Thème:</theme>
+            <type>Type</type>
+        </labels>
+        <activity>
+            <type>
+                <multiplechoices>QCM</multiplechoices>
+                <fillblanks>Textes à trous</fillblanks>
+            </type>
+        </activity>
+        <type_list>
+            <normal>Récit</normal>
+            <letter>Lettre</letter>
+            <dialog>Dialogue</dialog>
+            <poetry>Poésie</poetry>
+        </type_list>
+        <level_list>
+
+        </level_list>
+    </lesson>
+</root>

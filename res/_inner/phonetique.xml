@@ -1,0 +1,13 @@
+<root>
+    <vowels>Voyelles</vowels>
+    <vowels_list>a,ɑ,ɑ̃,e,ɛ,ɛ̃,ə,i,o,ɔ,ɔ̃,œ,œ̃,ø,u,y</vowels_list>
+
+    <consonants>Consonantes</consonants>
+    <consonants_list>b,d,f,g,k,l,m,n,ɲ,ŋ,p,ʀ,s,ʃ,t,v,z,ʒ
+    </consonants_list>
+
+    <semivowels>Semi-voyelles</semivowels>
+    <semivowels_list>j,ɥ,w</semivowels_list>
+
+
+</root>

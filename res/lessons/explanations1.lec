@@ -1,0 +1,103 @@
+<lessons>
+  <unit type="normal" theme="">
+    <title>Test_Explanations_1</title>
+    <title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh><title_zh>&#22320;&#29699;&#19978;&#30340;&#29983;&#27963;</title_zh>
+    <content_fr><item><index>0</index><content>Dehors il pleut, il y a aussi beaucoup de vent.</content></item><item><index>1</index><content>Les enfants sont &#224; l'&#233;cole.</content></item><item><index>2</index><content>Martin dort. Je ne dors pas.</content></item><item><index>3</index><content>Pas de probl&#232;me.</content></item><item><index>4</index><content>Ce n'est pas grave.</content></item><item><index>5</index><content>Combien co&#251;te cette bouteille de vin rouge ?</content></item><item><index>6</index><content>Je pense que les fran&#231;ais sont f&#233;n&#233;ants.</content></item><item><index>7</index><content>Combien co&#251;te un billet d'avion pour la France?</content></item><item><index>8</index><content>Le pr&#233;sident conduit son scooteur pour offrir un croissant &#224; son amie.</content></item><item><index>9</index><content>Le pr&#232;sident prend ses responsabilit&#232;s : Il n'oublis jamais de porter un casque lorsqu'il conduit son scooteur.</content></item><item><index>10</index><content>Le matin, j'ai l'habitude de boire un grand bol de caf&#233;.</content></item><item><index>11</index><content>Les abeilles font du miel, mais &#224; cause des pesticides, beaucoup meurent.</content></item><item><index>12</index><content>A cause de la comp&#233;titivit&#233;, beaucoup de gens pensent qu'ils sont des perdants.</content></item><item><index>13</index><content>ABCDEFGH</content></item><item><index>14</index><content>Ligne 14</content></item><item><index>15</index><content>Ligne 15</content></item><item><index>16</index><content>Ligne 16</content></item></content_fr>
+    <content_zh><item><index>0</index><content>&#22312;&#22806;&#38754;&#19979;&#38632;&#65292; &#20063;&#26377;&#24456;&#22823;&#30340;&#39080;&#12290;</content></item><item><index>1</index><content>&#23401;&#23376;&#37117;&#22312;&#23416;&#26657;&#19978;&#35506;&#12290;</content></item><item><index>2</index><content>&#39340;&#19969;&#22312;&#30561;&#35258;&#12290;&#25105;&#19981;&#30561;&#12290;</content></item><item><index>3</index><content>&#27794;&#21839;&#38988;</content></item><item><index>4</index><content>&#27794;&#38364;&#20418;</content></item><item><index>5</index><content>&#36889;&#29942;&#32005;&#37202;&#22810;&#23569;&#37666;&#65311;</content></item><item><index>6</index><content>&#25105;&#35258;&#24471;&#27861;&#22283;&#20154;&#24456;&#25078;&#24816;&#12290;</content></item><item><index>7</index><content>&#19968;&#24373;&#21435;&#27861;&#22283;&#30340;&#39131;&#27231;&#31080;&#22810;&#23569;&#37666;&#65311;</content></item><item><index>8</index><content>&#32317;&#32113;&#39438;&#27231;&#36554;&#29234;&#20102;&#36865;&#32650;&#35282;&#40618;&#21253;&#32102;&#20182;&#30340;&#22899;&#26379;&#21451;&#12290;</content></item><item><index>9</index><content>&#32317;&#32113;&#24456;&#36000;&#36012;&#20219;&#65292; &#20182;&#39438;&#27231;&#36554;&#30340;&#26178;&#20505;&#37117;&#19981;&#26371;&#24536;&#35352;&#24118;&#23433;&#20840;&#24125;&#12290;</content></item><item><index>10</index><content>&#26089;&#19978;&#25105;&#32722;&#24931;&#21917;&#19968;&#20491;&#22823;&#24754;&#21654;&#21857;&#12290;</content></item><item><index>11</index><content>&#34588;&#34562;&#20570;&#34562;&#34588;&#65292;&#20294;&#22240;&#29234;&#27578;&#34802;&#21137;&#30340;&#28651;&#29992;&#65292;&#36896;&#25104;&#34588;&#34562;&#22823;&#37327;&#27515;&#20129;&#12290;</content></item><item><index>12</index><content>&#22240;&#29234;&#31478;&#29229;&#30340;&#38364;&#20418;&#65292; &#24456;&#22810;&#20154;&#35258;&#24471;&#33258;&#24049;&#26159;&#22833;&#25943;&#30340;&#20154;&#12290;</content></item><item><index>13</index><content>---</content></item><item><index>14</index><content>---</content></item><item><index>15</index><content>---</content></item><item><index>16</index><content>---</content></item></content_zh>
+    <activity_list><activity type="multiplechoices" index="0"><title>Premi&#232;re activit&#233;</title><title_zh>&#31532;&#19968;&#20491;&#32244;&#32722;</title_zh><wave index="0" correct="3" spd="4"><title>Trouvez l'intru !
+
+</title><hint/><info/><item index="0">enfant
+
+</item><item index="1">&#232;tudiant
+
+</item><item index="2">&#233;l&#232;ve
+
+</item><item index="3">cahier
+
+</item></wave><wave index="1" correct="1" spd="3"><title>Trouvez l'intru !
+
+</title><hint/><info/><item index="0">dimanche
+
+</item><item index="1">alcool
+
+</item><item index="2">jour
+
+</item><item index="3">jour
+
+</item></wave><wave index="2" correct="3" spd="2"><title>Trouvez l'intru !
+
+</title><hint/><info/><item index="0">h&#244;pital
+
+</item><item index="1">maison
+
+</item><item index="2">&#232;cole
+
+</item><item index="3">fromage
+
+</item></wave><wave index="3" correct="2" spd="4"><title>Trouvez l'intru !
+
+</title><hint/><info/><item index="0">barbe
+
+</item><item index="1">moustache
+
+</item><item index="2">brosse
+
+</item><item index="3">bouc
+
+</item></wave><wave index="4" correct="3" spd="1"><title>Trouvez l'article d&#232;fini de : cahier.
+
+</title><hint/><info/><item index="0">la
+
+</item><item index="1">du
+
+</item><item index="2">un
+
+</item><item index="3">le
+
+</item></wave><wave index="5" correct="2" spd="1"><title>Ou trouver la definition d'un mot ? Dans ...
+
+</title><hint/><info/><item index="0">une banque
+
+</item><item index="1">une barbe
+
+</item><item index="2">un dictionnaire
+
+</item><item index="3">une chaussette
+
+</item></wave></activity><activity type="multiplechoices" index="1"><title>Deuxi&#232;me Activit&#233;2</title><title_zh/><wave index="0" correct="0,1,2" spd="3"><title>Lesquel peut-on boire?
+
+</title><hint/><info/><item index="0">le vin
+
+</item><item index="1">la bi&#232;re
+
+</item><item index="2">le jus d'orange
+
+</item><item index="3">le biscuit
+
+</item></wave><wave index="1" correct="1" spd="2"><title>Lequel est l'animal le plus grand?
+
+</title><hint/><info/><item index="0">la tortue
+
+</item><item index="1">le cheval
+
+</item><item index="2">le putois
+
+</item><item index="3">le h&#233;risson
+
+</item></wave><wave index="2" correct="0,3" spd="4"><title>Que ne peut-on pas manger ?
+</title><hint/><info/><item index="0">un crayon
+</item><item index="1">du riz
+</item><item index="2">des p&#226;tes
+</item><item index="3">un arbre
+</item></wave><wave index="3" correct="1" spd="4"><title>Minuit c'est ___
+</title><hint/><info/><item index="0">t&#244;t
+</item><item index="1">tard
+</item><item index="2">d&#233;licieux
+</item><item index="3">pas tard
+</item></wave><wave index="4" correct="0,1" spd="1"><title>Que peut-on faire en cours?
+</title><hint/><info/><item index="0">dormir
+</item><item index="1">&#233;tudier
+</item><item index="2">manger
+</item><item index="3">trier ses chaussettes
+</item></wave></activity></activity_list><vocabulary><item index="0"><wid>1,101</wid><tid>25</tid></item><item index="1"><wid>9,101</wid><tid>19</tid></item><item index="2"><wid>47,101</wid><tid>27</tid></item><item index="3"><wid>301,101</wid><tid>71</tid></item><item index="4"><wid>112,101</wid><tid>72</tid></item><item index="5"><wid>58,101</wid><tid>54</tid></item><item index="6"><wid>57,101</wid><tid>154</tid></item><item index="7"><wid>104,101</wid><tid>174</tid></item><item index="8"><wid>41,101</wid><tid>39</tid></item><item index="9"><wid>49,101</wid><tid>6</tid></item><item index="10"><wid>130,101</wid><tid>179</tid></item><item index="11"><wid>53,101</wid><tid>156</tid></item><item index="12"><wid>1,102</wid><tid>235</tid></item></vocabulary><explanation><item index="4"> Explanation Test</item><item index="11"> Explanation Test (abeilles)</item></explanation></unit>
+</lessons>

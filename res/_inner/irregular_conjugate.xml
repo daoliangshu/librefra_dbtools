@@ -1,0 +1,266 @@
+<root>
+
+    <!--Models should be listed here to be recognized -->
+    <list>être,avoir,uire,enir,êtir,tir,eindre,dre,ouloir,aloir,faire</list>
+    <list_ir>
+        dormir,entir,fuir,partir,servir,sortir,courir,tenir,venir,cueillir,ouvrir,saillir,bouillir,mourir,défaillir,offir,souffrir,quérir,vêtir
+    </list_ir>
+
+
+    <!-- It corresponds to irregular verbs for which radicals can be find
+        by looking at a irregular model verb ( ex: venir-> looking as tenir)
+
+        When a tense is not present, it means that it regular,
+            if needed, the group terminaison should be given ('t' tag)
+    -->
+    <term>
+
+        <être>
+            <rad>sui,es,s,,ét,f</rad>
+            <present>
+                <code>011232</code>
+                <t>7</t>
+            </present>
+            <imparfait>
+                <code>444444</code>
+            </imparfait>
+            <futur>
+                <code>222222</code>
+            </futur>
+            <simple_past>
+                <code>555555</code>
+                <t>3</t>
+            </simple_past>
+            <sub_present>
+                <code>222222</code>
+                <t>3</t>
+            </sub_present>
+            <sub_imparfait>
+                <code>555555</code>
+                <t>3</t>
+            </sub_imparfait>
+            <pp>
+                <code>4</code>
+            </pp>
+        </être>
+
+        <avoir>
+            <rad>a,av,aur,e,ai,ay</rad>
+            <present>
+                <code>000111</code>
+                <t>8</t>
+            </present>
+            <imparfait>
+                <code>111111</code>
+            </imparfait>
+            <futur>
+                <code>222222</code>
+            </futur>
+            <simple_past>
+                <code>333333</code>
+                <t>3</t>
+            </simple_past>
+            <sub_present>
+                <code>444555</code>
+                <t>4</t>
+            </sub_present>
+            <sub_imparfait>
+                <code>333333</code>
+                <t>3</t>
+            </sub_imparfait>
+            <pp>
+                <code>3</code>
+                <t>4</t>
+            </pp>
+        </avoir>
+
+        <enir>
+            <rad>ien,en,enn,iend,</rad>
+            <present>
+                <code>000112</code>
+                <t>3</t>
+            </present>
+            <imparfait></imparfait>
+            <futur>
+                <code>333333</code>
+            </futur>
+            <simple_past>
+                <code>444444</code>
+                <t>4</t>
+            </simple_past>
+        </enir>
+
+        <uire>
+            <rad>ui,uis</rad>
+            <present>
+                <code>000111</code>
+                <t>3</t>
+            </present>
+            <imparfait>
+                <code>111111</code>
+            </imparfait>
+            <simple_past>
+                <code>111111</code>
+                <t>2</t>
+            </simple_past>
+        </uire>
+
+        <êtir>
+            <rad>ê,êt,êti</rad>
+            <present>
+                <code>110111</code>
+                <t>3</t>
+            </present>
+            <imparfait>
+                <code>111111</code>
+            </imparfait>
+            <simple_past>
+                <code>111111</code>
+                <t>2</t>
+            </simple_past>
+            <futur>
+                <code>222222</code>
+            </futur>
+        </êtir>
+
+        <eindre>
+            <rad>ein,eign,eind</rad>
+            <present>
+                <code>000111</code>
+                <t>3</t>
+            </present>
+            <imparfait>
+                <code>111111</code>
+            </imparfait>
+            <simple_past>
+                <code>111111</code>
+                <t>2</t>
+            </simple_past>
+            <futur>
+                <code>222222</code>
+            </futur>
+            <pp>
+                <code>0</code>
+                <t>3</t>
+            </pp>
+        </eindre>
+
+        <tir>
+            <rad>,t,ti</rad>
+            <present>
+                <code>000111</code>
+                <t>3</t>
+            </present>
+            <imparfait>
+                <code>111111</code>
+            </imparfait>
+            <simple_past>
+                <code>111111</code>
+                <t>2</t>
+            </simple_past>
+            <futur>
+                <code>222222</code>
+            </futur>
+        </tir>
+
+        <dre>
+            <rad>d</rad>
+            <present>
+                <code>000000</code>
+                <t>3</t>
+            </present>
+            <simple_past>
+                <code>000000</code>
+                <t>2</t>
+            </simple_past>
+            <futur>
+                <code>000000</code>
+            </futur>
+            <imparfait>
+                <code>000000</code>
+            </imparfait>
+        </dre>
+
+        <ouloir>
+            <rad>eu,oul,oud,euill</rad>
+            <present>
+                <code>000110</code>
+                <t>5</t>
+            </present>
+            <simple_past>
+                <code>111111</code>
+                <t>3</t>
+            </simple_past>
+            <futur>
+                <code>222222</code>
+            </futur>
+            <imparfait>
+                <code>111111</code>
+            </imparfait>
+        </ouloir>
+
+        <aloir>
+            <rad>au,al,aud,aill</rad>
+            <present>
+                <code>000110</code>
+                <t>5</t>
+            </present>
+            <simple_past>
+                <code>111111</code>
+                <t>3</t>
+            </simple_past>
+            <futur>
+                <code>222222</code>
+            </futur>
+            <imparfait>
+                <code>111111</code>
+            </imparfait>
+        </aloir>
+
+        <faire>
+            <rad>fai,fais,f,fe,fass</rad>
+            <present>
+                <code>000122</code>
+                <t>6</t>
+            </present>
+            <simple_past>
+                <code>222222</code>
+                <t>2</t>
+            </simple_past>
+            <imparfait>
+                <code>111111</code>
+            </imparfait>
+            <futur>
+                <code>333333</code>
+            </futur>
+        </faire>
+
+        <aller>
+            <rad>vai,va,aill,v,i</rad>
+            <present>
+                <code>011223</code>
+            </present>
+            <futur>
+                <code>444444</code>
+            </futur>
+        </aller>
+        <battre>
+            <present>
+                <t>3</t>
+            </present>
+            <past_simple>
+                <t>2</t>
+            </past_simple>
+        </battre>
+    </term>
+
+    <irreg_retriever>
+        <vau>val</vau>
+        <a>av</a>
+        <sui>être</sui>
+        <fai>faire</fai>
+        <va></va>
+        <sai>savoir</sai>
+    </irreg_retriever>
+
+</root>
